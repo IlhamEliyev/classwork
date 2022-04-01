@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
+using User_Task.Utilies.Extensions;
 
 namespace User_Task.Models
 {
@@ -29,35 +30,8 @@ namespace User_Task.Models
                 return _password;
             }
             set
-            { 
-                bool upper = false;
-                bool lower = false;
-                bool digit = false;
-                foreach (char letter in value)
-                {
-                    if (!upper)
-                    {
-                        if (Char.IsUpper(letter))
-                        {
-                            upper = true;
-                        }
-                    }
-                    else if (!lower)
-                    {
-                        if (Char.IsLower(letter))
-                        {
-                            lower = true;
-                        }
-                    }
-                    else if(!digit)
-                    {
-                        if (Char.IsDigit(letter))
-                        {
-                            digit = true;
-                        }
-                    }
-                }
-                if (upper == true && lower == true && digit == true)
+            {
+                if (value.HasDigit() && value.HasLower() && value.HasUpper())
                 {
                     _password = value;
                 }
