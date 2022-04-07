@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\bin\Debug\netcoreapp3.1\Asynchronous.exe
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\bin\Debug\netcoreapp3.1\Asynchronous.deps.json
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\bin\Debug\netcoreapp3.1\Asynchronous.runtimeconfig.json
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\bin\Debug\netcoreapp3.1\Asynchronous.runtimeconfig.dev.json
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\bin\Debug\netcoreapp3.1\Asynchronous.dll
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\bin\Debug\netcoreapp3.1\Asynchronous.pdb
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.AssemblyInfo.cs
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.dll
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.pdb
+C:\Users\USER\Desktop\BP101\Asynchronous\Asynchronous\obj\Debug\netcoreapp3.1\Asynchronous.genruntimeconfig.cache
